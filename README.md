@@ -1,6 +1,6 @@
 ![LaskaKit CH9102 Programmer](https://github.com/LaskaKit/CH9102-Programmer/raw/main/img/3.jpg)
 
-# Versatile CH340 programmer with USB-UART convertor used for upload of firmware to ESP32, ESP8266 and Arduino development boards
+# Versatile CH9102 programmer with USB-UART convertor used for upload of firmware to ESP32, ESP8266 and Arduino development boards
 
 If you are looking for a cheap programmer - USB-UART convertor - which you may use for our and yours ESP32, ESP8266 development board, you should check this programmer. 
 This programmer may be used also for Arduino Mini and Mini Pro thanks to switch for 5V and 3.3V power supply which is on-board.
@@ -21,6 +21,6 @@ The output connector includes switchable power supply (3.3V or 5V), UART and DTR
 
 Driver is available on http://www.wch-ic.com/search?t=all&q=CH9102
 
-Github of CH340 programmer https://github.com/LaskaKit/CH9102-Programmer/
+Github of CH9102 programmer https://github.com/LaskaKit/CH9102-Programmer/
 
 It is available on https://www.laskakit.cz/laskakit-ch9102-programmer-usb-c--microusb--uart/
