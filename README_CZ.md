@@ -20,6 +20,6 @@ Kromě UART sběrnice a napájení jsou na konektoru k dispozici i piny DTR a RT
 
 Instalační soubor najdeš na http://www.wch-ic.com/search?t=all&q=CH9102
 
-Github CH340 programátoru naleznete na https://github.com/LaskaKit/CH9102-Programmer/
+Github CH9102 programátoru naleznete na https://github.com/LaskaKit/CH9102-Programmer/
 
 K zakoupení je na naší stránce https://www.laskakit.cz/laskakit-ch9102-programmer-usb-c--microusb--uart/
