@@ -1,0 +1,6 @@
+Designator,Mid X,Mid Y,Layer,Rotation
+PROG, 8.10,10.00,Top,270.0
+Q1,17.78,18.38,Top,180.0
+R1,15.88,18.38,Top,90.0
+R2,19.69,18.38,Top,270.0
+X1,17.52,10.00,Top,90.0
